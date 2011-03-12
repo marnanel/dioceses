@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+
+This is a list of counties which make up each province of the
+Episcopal Church in the USA (known as TEC or ECUSA). In some
+cases the counties have been worked out from old maps and
+may be incorrect. Corrections are welcomed: thomas@thurman.org.uk.
+
+The Navajo Area Mission is not yet accounted for, but will be.
+
+Two counties in the entire USA are split between dioceses.
+These are Santa Clara and Riverside Counties, both in California.
+This file notes the split with the attribute split="1".
+
+Not all the dioceses have websites listed, but they will.
+
+Details of cathedrals and other congregations may eventually
+be added as well.
+
+This file is in the public domain.
+
+-->
 <dioceses>
 	<province id="province-1">
 		<diocese id="connecticut" name="Connecticut">
+			<link type="web" href="http://www.ctepiscopal.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Connecticut" />
 			<county fips="09001" name="Fairfield, CT" />
 			<county fips="09003" name="Hartford, CT" />
@@ -13,6 +35,7 @@
 			<county fips="09015" name="Windham, CT" />
 		</diocese>
 		<diocese id="maine" name="Maine">
+			<link type="web" href="http://episcopalmaine.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Maine" />
 			<county fips="23001" name="Androscoggin, ME" />
 			<county fips="23003" name="Aroostook, ME" />
@@ -32,6 +55,7 @@
 			<county fips="23031" name="York, ME" />
 		</diocese>
 		<diocese id="massachusetts" name="Massachusetts">
+			<link type="web" href="http://www.diomass.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Massachusetts" />
 			<county fips="25017" name="Middlesex, MA" />
 			<county fips="25019" name="Nantucket, MA" />
@@ -44,6 +68,7 @@
 			<county fips="25007" name="Dukes, MA" />
 		</diocese>
 		<diocese id="newhampshire" name="New Hampshire">
+			<link type="web" href="http://www.nhepiscopal.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_New_Hampshire" />
 			<county fips="33001" name="Belknap, NH" />
 			<county fips="33003" name="Carroll, NH" />
@@ -57,6 +82,7 @@
 			<county fips="33019" name="Sullivan, NH" />
 		</diocese>
 		<diocese id="rhodeisland" name="Rhode Island">
+			<link type="web" href="http://www.episcopalri.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Rhode_Island" />
 			<county fips="44001" name="Bristol, RI" />
 			<county fips="44003" name="Kent, RI" />
@@ -65,6 +91,7 @@
 			<county fips="44009" name="Washington, RI" />
 		</diocese>
 		<diocese id="vermont" name="Vermont">
+			<link type="web" href="http://www.dioceseofvermont.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Vermont" />
 			<county fips="50001" name="Addison, VT" />
 			<county fips="50003" name="Bennington, VT" />
@@ -82,6 +109,7 @@
 			<county fips="50007" name="Chittenden,VT" />
 		</diocese>
 		<diocese id="westernmassachusetts" name="Western Massachusetts">
+			<link type="web" href="http://www.diocesewma.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Western_Massachusetts" />
 			<county fips="25003" name="Berkshire, MA" />
 			<county fips="25015" name="Hampshire, MA" />
@@ -92,6 +120,7 @@
 	</province>
 	<province id="province-2">
 		<diocese id="albany" name="Albany">
+			<link type="web" href="http://www.albanyepiscopaldiocese.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Albany" />
 			<county fips="36089" name="St. Lawrence, NY" />
 			<county fips="36043" name="Herkimer, NY" />
@@ -114,6 +143,7 @@
 			<county fips="36001" name="Albany, NY" />
 		</diocese>
 		<diocese id="centralnewyork" name="Central New York">
+			<link type="web" href="http://cny.anglican.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Central_New_York" />
 			<county fips="36007" name="Broome, NY" />
 			<county fips="36023" name="Cortland, NY" />
@@ -131,6 +161,7 @@
 			<county fips="36015" name="Chemung, NY" />
 		</diocese>
 		<diocese id="longisland" name="Long Island">
+			<link type="web" href="http://longisland.anglican.org" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Long_Island" />
 			<county fips="36047" name="Kings, NY" />
 			<county fips="36081" name="Queens, NY" />
@@ -138,6 +169,7 @@
 			<county fips="36103" name="Suffolk, NY" />
 		</diocese>
 		<diocese id="newark" name="Newark">
+			<link type="web" href="http://www.dioceseofnewark.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Newark" />
 			<county fips="34013" name="Essex, NJ" />
 			<county fips="34017" name="Hudson, NJ" />
@@ -148,6 +180,7 @@
 			<county fips="34041" name="Warren, NJ" />
 		</diocese>
 		<diocese id="newjersey" name="New Jersey">
+			<link type="web" href="http://newjersey.anglican.org" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_New_Jersey" />
 			<county fips="34039" name="Union, NJ" />
 			<county fips="34023" name="Middlesex, NJ" />
@@ -165,6 +198,7 @@
 			<county fips="34009" name="Cape May, NJ" />
 		</diocese>
 		<diocese id="newyork" name="New York">
+			<link type="web" href="http://www.dioceseny.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_New York" />
 			<county fips="36119" name="Westchester, NY" />
 			<county fips="36087" name="Rockland, NY" />
@@ -178,6 +212,7 @@
 			<county fips="36085" name="Richmond, NY" />
 		</diocese>
 		<diocese id="rochester" name="Rochester">
+			<link type="web" href="http://www.episcopalrochester.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Rochester" />
 			<county fips="36003" name="Allegany, NY" />
 			<county fips="36051" name="Livingston, NY" />
@@ -189,6 +224,7 @@
 			<county fips="36097" name="Schuyler, NY" />
 		</diocese>
 		<diocese id="westernnewyork" name="Western New York">
+			<link type="web" href="http://www.episcopalwny.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Western_New_York" />
 			<county fips="36009" name="Cattaraugus, NY" />
 			<county fips="36013" name="Chautauqua, NY" />
@@ -201,6 +237,7 @@
 	</province>
 	<province id="province-3">
 		<diocese id="bethlehem" name="Bethlehem">
+			<link type="web" href="http://diobeth.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Bethlehem" />
 			<county fips="42075" name="Lebanon, PA" />
 			<county fips="42107" name="Schuylkill, PA" />
@@ -218,6 +255,7 @@
 			<county fips="42095" name="Northampton, PA" />
 		</diocese>
 		<diocese id="centralpennsylvania" name="Central Pennsylvania">
+			<link type="web" href="http://www.diocesecpa.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Central_Pennsylvania" />
 			<county fips="42037" name="Columbia, PA" />
 			<county fips="42133" name="York, PA" />
@@ -245,12 +283,14 @@
 			<county fips="42041" name="Cumberland, PA" />
 		</diocese>
 		<diocese id="delaware" name="Delaware">
+			<link type="web" href="http://www.dioceseofdelaware.net/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Delaware" />
 			<county fips="10001" name="Kent, DE" />
 			<county fips="10003" name="New Castle, DE" />
 			<county fips="10005" name="Sussex, DE" />
 		</diocese>
 		<diocese id="easton" name="Easton">
+			<link type="web" href="http://www.dioceseofeaston.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Easton" />
 			<county fips="24011" name="Caroline, MD" />
 			<county fips="24015" name="Cecil, MD" />
@@ -263,6 +303,7 @@
 			<county fips="24047" name="Worcester, MD" />
 		</diocese>
 		<diocese id="maryland" name="Maryland">
+			<link type="web" href="http://www.ang-md.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Maryland" />
 			<county fips="24001" name="Allegany, MD" />
 			<county fips="24023" name="Garrett, MD" />
@@ -277,6 +318,7 @@
 			<county fips="24021" name="Frederick, MD" />
 		</diocese>
 		<diocese id="northwesternpennsylvania" name="Northwestern Pennsylvania">
+			<link type="web" href="http://www.dionwpa.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Northwestern_Pennsylvania" />
 			<county fips="42049" name="Erie, PA" />
 			<county fips="42039" name="Crawford, PA" />
@@ -293,6 +335,7 @@
 			<county fips="42033" name="Clearfield, PA" />
 		</diocese>
 		<diocese id="pennsylvania" name="Pennsylvania">
+			<link type="web" href="http://www.diopa.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Pennsylvania" />
 			<county fips="42101" name="Philadelphia, PA" />
 			<county fips="42017" name="Bucks, PA" />
@@ -301,6 +344,7 @@
 			<county fips="42045" name="Delaware, PA" />
 		</diocese>
 		<diocese id="pittsburgh" name="Pittsburgh">
+			<link type="web" href="http://www.episcopalpgh.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Pittsburgh" />
 			<county fips="42059" name="Greene, PA" />
 			<county fips="42051" name="Fayette, PA" />
@@ -315,6 +359,7 @@
 			<county fips="42003" name="Allegheny, PA" />
 		</diocese>
 		<diocese id="southernvirginia" name="Southern Virginia">
+			<link type="web" href="http://www.diosova.org" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Southern_Virginia" />
 			<county fips="51143" name="Pittsylvania, VA" />
 			<county fips="51083" name="Halifax, VA" />
@@ -356,6 +401,7 @@
 			<county fips="51730" name="Petersburg, VA" />
 		</diocese>
 		<diocese id="southwesternvirginia" name="Southwestern Virginia">
+			<link type="web" href="http://www.dioswva.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Southwestern_Virginia" />
 			<county fips="51105" name="Lee, VA" />
 			<county fips="51169" name="Scott, VA" />
@@ -406,6 +452,7 @@
 			<county fips="51640" name="Galax, VA" />
 		</diocese>
 		<diocese id="virginia" name="Virginia">
+			<link type="web" href="http://thediocese.net/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Virginia" />
 			<county fips="51165" name="Rockingham, VA" />
 			<county fips="51003" name="Albermarle, VA" />
@@ -458,6 +505,7 @@
 			<county fips="51159" name="Richmond Co., VA" />
 		</diocese>
 		<diocese id="washington" name="Washington">
+			<link type="web" href="http://www.edow.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Washington" />
 			<county fips="24031" name="Montgomery, MD" />
 			<county fips="24033" name="Prince George's, MD" />
@@ -466,6 +514,7 @@
 			<county fips="11001" name="Washington, DC" />
 		</diocese>
 		<diocese id="westvirginia" name="West Virginia">
+			<link type="web" href="http://www.wvdiocese.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_West_Virginia" />
 			<county fips="54001" name="Barbour, WV" />
 			<county fips="54003" name="Berkeley, WV" />
@@ -526,6 +575,7 @@
 	</province>
 	<province id="province-4">
 		<diocese id="alabama" name="Alabama">
+			<link type="web" href="http://www.dioala.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Alabama" />
 			<county fips="01011" name="Bullock, AL" />
 			<county fips="01087" name="Macon, AL" />
@@ -577,6 +627,7 @@
 			<county fips="01113" name="Russell, AL" />
 		</diocese>
 		<diocese id="atlanta" name="Atlanta">
+			<link type="web" href="http://www.episcopalatlanta.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Atlanta" />
 			<county fips="13241" name="Rabun, GA" />
 			<county fips="13281" name="Towns, GA" />
@@ -660,6 +711,7 @@
 			<county fips="13257" name="Stephens, GA" />
 		</diocese>
 		<diocese id="centralflorida" name="Central Florida">
+			<link type="web" href="http://www.cfdiocese.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Central_Florida" />
 			<county fips="12111" name="St. Lucie, FL" />
 			<county fips="12061" name="Indian River, FL" />
@@ -678,6 +730,7 @@
 			<county fips="12009" name="Brevard, FL" />
 		</diocese>
 		<diocese id="centralgulfcoast" name="Central Gulf Coast">
+			<link type="web" href="http://www.diocgc.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Central_Gulf_Coast" />
 			<county fips="12005" name="Bay, FL" />
 			<county fips="12063" name="Jackson, FL" />
@@ -710,6 +763,7 @@
 			<county fips="01005" name="Barbour, AL" />
 		</diocese>
 		<diocese id="eastcarolina" name="East Carolina">
+			<link type="web" href="http://www.diocese-eastcarolina.org" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_East_Carolina" />
 			<county fips="37155" name="Robeson, NC" />
 			<county fips="37047" name="Columbus, NC" />
@@ -745,6 +799,7 @@
 			<county fips="37095" name="Hyde, NC" />
 		</diocese>
 		<diocese id="easttennessee" name="East Tennessee">
+			<link type="web" href="http://etdiocese.net/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_East_Tennessee" />
 			<county fips="47163" name="Sullivan, TN" />
 			<county fips="47091" name="Johnson, TN" />
@@ -783,6 +838,7 @@
 			<county fips="13083" name="Dade, GA" />
 		</diocese>
 		<diocese id="florida" name="Florida">
+			<link type="web" href="http://florida.anglican.org" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Florida" />
 			<county fips="12075" name="Levy, FL" />
 			<county fips="12037" name="Franklin, FL" />
@@ -811,6 +867,7 @@
 			<county fips="12089" name="Nassau, FL" />
 		</diocese>
 		<diocese id="georgia" name="Georgia">
+			<link type="web" href="http://georgia.anglican.org" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Georgia" />
 			<county fips="13205" name="Mitchell, GA" />
 			<county fips="13007" name="Baker, GA" />
@@ -892,6 +949,7 @@
 			<county fips="13073" name="Columbia, GA" />
 		</diocese>
 		<diocese id="kentucky" name="Kentucky">
+			<link type="web" href="http://www.episcopalky.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Kentucky" />
 			<county fips="21105" name="Hickman, KY" />
 			<county fips="21075" name="Fulton, KY" />
@@ -945,6 +1003,7 @@
 			<county fips="21007" name="Ballard, KY" />
 		</diocese>
 		<diocese id="lexington" name="Lexington">
+			<link type="web" href="http://diolex.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Lexington" />
 			<county fips="21013" name="Bell, KY" />
 			<county fips="21121" name="Knox, KY" />
@@ -1018,6 +1077,7 @@
 			<county fips="21077" name="Gallatin, KY" />
 		</diocese>
 		<diocese id="louisiana" name="Louisiana">
+			<link type="web" href="http://www.edola.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Louisiana" />
 			<county fips="22103" name="St. Tammany, LA" />
 			<county fips="22117" name="Washington, LA" />
@@ -1047,6 +1107,7 @@
 			<county fips="22051" name="Jefferson, LA" />
 		</diocese>
 		<diocese id="mississippi" name="Mississippi">
+			<link type="web" href="http://www.dioms.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Mississippi" />
 			<county fips="28001" name="Adams, MS" />
 			<county fips="28003" name="Alcorn, MS" />
@@ -1132,6 +1193,7 @@
 			<county fips="28163" name="Yazoo, MS" />
 		</diocese>
 		<diocese id="northcarolina" name="North_Carolina">
+			<link type="web" href="http://www.episdionc.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_North_Carolina" />
 			<county fips="37097" name="Iredell, NC" />
 			<county fips="37119" name="Mecklenburg, NC" />
@@ -1175,6 +1237,7 @@
 			<county fips="37195" name="Wilson, NC" />
 		</diocese>
 		<diocese id="southcarolina" name="South Carolina">
+			<link type="web" href="http://www.dioceseofsc.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_South_Carolina" />
 			<county fips="45013" name="Beaufort, SC" />
 			<county fips="45049" name="Hampton, SC" />
@@ -1201,6 +1264,7 @@
 			<county fips="45011" name="Barnwell, SC" />
 		</diocese>
 		<diocese id="southeastflorida" name="Southeast Florida">
+			<link type="web" href="http://www.diosef.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Southeast_Florida" />
 			<county fips="12051" name="Hendry, FL" />
 			<county fips="12021" name="Collier, FL" />
@@ -1212,6 +1276,7 @@
 			<county fips="12085" name="Martin, FL" />
 		</diocese>
 		<diocese id="southwestflorida" name="Southwest Florida">
+			<link type="web" href="http://www.episcopalswfl.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Southwest_Florida" />
 			<county fips="12015" name="Charlotte, FL" />
 			<county fips="12071" name="Lee, FL" />
@@ -1224,6 +1289,7 @@
 			<county fips="12101" name="Pasco, FL" />
 		</diocese>
 		<diocese id="tennessee" name="Tennessee">
+			<link type="web" href="http://www.episcopaldiocese-tn.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Tennessee" />
 			<county fips="47099" name="Lawrence, TN" />
 			<county fips="47181" name="Wayne, TN" />
@@ -1267,6 +1333,7 @@
 			<county fips="47049" name="Fentress, TN" />
 		</diocese>
 		<diocese id="uppersouthcarolina" name="Upper South Carolina">
+			<link type="web" href="http://www.edusc.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Upper_South_Carolina" />
 			<county fips="45077" name="Pickens, SC" />
 			<county fips="45073" name="Oconee, SC" />
@@ -1293,6 +1360,7 @@
 			<county fips="45045" name="Greenville, SC" />
 		</diocese>
 		<diocese id="westernnorthcarolina" name="Western North Carolina">
+			<link type="web" href="http://www.diocesewnc.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Western_North_Carolina" />
 			<county fips="37043" name="Clay, NC" />
 			<county fips="37113" name="Macon, NC" />
@@ -1324,6 +1392,7 @@
 			<county fips="37035" name="Catawba, NC" />
 		</diocese>
 		<diocese id="westtennessee" name="West Tennessee">
+			<link type="web" href="http://www.episwtn.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_West_Tennessee" />
 			<county fips="47109" name="McNairy, TN" />
 			<county fips="47023" name="Chester, TN" />
@@ -1350,6 +1419,7 @@
 	</province>
 	<province id="province-5">
 		<diocese id="chicago" name="Chicago">
+			<link type="web" href="http://www.episcopalchicago.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Chicago" />
 			<county fips="17075" name="Iroquois, IL" />
 			<county fips="17053" name="Ford, IL" />
@@ -1376,6 +1446,7 @@
 			<county fips="17085" name="Jo Daviess, IL" />
 		</diocese>
 		<diocese id="easternmichigan" name="Eastern Michigan">
+			<link type="web" href="http://eastmich.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Eastern_Michigan" />
 			<county fips="26147" name="St. Clair, MI" />
 			<county fips="26087" name="Lapeer, MI" />
@@ -1404,6 +1475,7 @@
 			<county fips="26031" name="Cheboygan, MI" />
 		</diocese>
 		<diocese id="eauclaire" name="Eau Claire">
+			<link type="web" href="http://www.dioec.com/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Eau_Claire" />
 			<county fips="55093" name="Pierce, WI" />
 			<county fips="55091" name="Pepin, WI" />
@@ -1434,6 +1506,7 @@
 			<county fips="55123" name="Vernon, WI" />
 		</diocese>
 		<diocese id="fonddulac" name="Fond du Lac">
+			<link type="web" href="http://episcopalfonddulac.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Fond_du_Lac" />
 			<county fips="55029" name="Door, WI" />
 			<county fips="55061" name="Kewaunee, WI" />
@@ -1463,6 +1536,7 @@
 			<county fips="55075" name="Marinette, WI" />
 		</diocese>
 		<diocese id="indianapolis" name="Indianapolis">
+			<link type="web" href="http://www.indydio.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Indianapolis" />
 			<county fips="18123" name="Perry, IN" />
 			<county fips="18147" name="Spencer, IN" />
@@ -1527,6 +1601,7 @@
 			<county fips="18171" name="Warren, IN" />
 		</diocese>
 		<diocese id="michigan" name="Michigan">
+			<link type="web" href="http://www.edomi.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Michigan" />
 			<county fips="26115" name="Monroe, MI" />
 			<county fips="26091" name="Lenawee, MI" />
@@ -1540,6 +1615,7 @@
 			<county fips="26099" name="Macomb, MI" />
 		</diocese>
 		<diocese id="milwaukee" name="Milwaukee">
+			<link type="web" href="http://www.diomil.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Milwaukee" />
 			<county fips="55111" name="Sauk, WI" />
 			<county fips="55103" name="Richland, WI" />
@@ -1562,6 +1638,7 @@
 			<county fips="55131" name="Washington, WI" />
 		</diocese>
 		<diocese id="missouri" name="Missouri">
+			<link type="web" href="http://www.diocesemo.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Missouri" />
 			<county fips="29143" name="New Madrid, MO" />
 			<county fips="29155" name="Pemiscot, MO" />
@@ -1615,6 +1692,7 @@
 			<county fips="29133" name="Mississippi, MO" />
 		</diocese>
 		<diocese id="northernindiana" name="Northern Indiana">
+			<link type="web" href="http://www.ednin.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Northern_Indiana" />
 			<county fips="18127" name="Porter, IN" />
 			<county fips="18089" name="Lake, IN" />
@@ -1649,6 +1727,7 @@
 			<county fips="18091" name="LaPorte, IN" />
 		</diocese>
 		<diocese id="northernmichigan" name="Northern Michigan">
+			<link type="web" href="http://www.upepiscopal.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Northern_Michigan" />
 			<county fips="26053" name="Gogebic, MI" />
 			<county fips="26131" name="Ontonagon, MI" />
@@ -1667,6 +1746,7 @@
 			<county fips="26013" name="Baraga, MI" />
 		</diocese>
 		<diocese id="ohio" name="Ohio">
+			<link type="web" href="http://ohio.anglican.org" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Ohio" />
 			<county fips="39155" name="Trumbull, OH" />
 			<county fips="39007" name="Ashtabula, OH" />
@@ -1718,6 +1798,7 @@
 			<county fips="39171" name="Williams, OH" />
 		</diocese>
 		<diocese id="quincy" name="Quincy">
+			<link type="web" href="http://thedioceseofquincyonline.com/default.aspx" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Quincy" />
 			<county fips="17013" name="Calhoun, IL" />
 			<county fips="17149" name="Pike, IL" />
@@ -1740,6 +1821,7 @@
 			<county fips="17161" name="Rock Island, IL" />
 		</diocese>
 		<diocese id="southernohio" name="Southern Ohio">
+			<link type="web" href="http://www.episcopal-dso.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Southern_Ohio" />
 			<county fips="39087" name="Lawrence, OH" />
 			<county fips="39145" name="Scioto, OH" />
@@ -1783,6 +1865,7 @@
 			<county fips="39037" name="Darke, OH" />
 		</diocese>
 		<diocese id="springfield" name="Springfield">
+			<link type="web" href="http://www.episcopalspringfield.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Springfield" />
 			<county fips="17183" name="Vermilion, IL" />
 			<county fips="17003" name="Alexander, IL" />
@@ -1846,6 +1929,7 @@
 			<county fips="17179" name="Tazewell, IL" />
 		</diocese>
 		<diocese id="westernmichigan" name="Western Michigan">
+			<link type="web" href="http://www.edwm.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Western_Michigan" />
 			<county fips="26023" name="Branch, MI" />
 			<county fips="26149" name="St. Joseph, MI" />
@@ -1884,6 +1968,7 @@
 	</province>
 	<province id="province-6">
 		<diocese id="colorado" name="Colorado">
+			<link type="web" href="http://www.coloradodiocese.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Colorado" />
 			<county fips="08001" name="Adams, CO" />
 			<county fips="08003" name="Alamosa, CO" />
@@ -1951,6 +2036,7 @@
 			<county fips="08125" name="Yuma, CO" />
 		</diocese>
 		<diocese id="iowa" name="Iowa">
+			<link type="web" href="http://www.iowaepiscopal.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Iowa" />
 			<county fips="19001" name="Adair, IA" />
 			<county fips="19003" name="Adams, IA" />
@@ -2053,6 +2139,7 @@
 			<county fips="19197" name="Wright, IA" />
 		</diocese>
 		<diocese id="minnesota" name="Minnesota">
+			<link type="web" href="http://www.episcopalmn.org" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Minnesota" />
 			<county fips="27055" name="Houston, MN" />
 			<county fips="27045" name="Fillmore, MN" />
@@ -2142,6 +2229,7 @@
 			<county fips="27099" name="Mower, MN" />
 		</diocese>
 		<diocese id="montana" name="Montana">
+			<link type="web" href="http://mtepiscopal.homestead.com/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Montana" />
 			<county fips="30001" name="Beaverhead, MT" />
 			<county fips="30003" name="Big Horn, MT" />
@@ -2201,6 +2289,7 @@
 			<county fips="30111" name="Yellowstone, MT" />
 		</diocese>
 		<diocese id="nebraska" name="Nebraska">
+			<link type="web" href="http://www.episcopal-ne.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Nebraska" />
 			<county fips="31001" name="Adams, NE" />
 			<county fips="31003" name="Antelope, NE" />
@@ -2297,6 +2386,7 @@
 			<county fips="31185" name="York, NE" />
 		</diocese>
 		<diocese id="northdakota" name="North Dakota">
+			<link type="web" href="http://www.episcopal-nd.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_North_Dakota" />
 			<county fips="27027" name="Clay, MN" />
 			<county fips="38001" name="Adams, ND" />
@@ -2354,6 +2444,7 @@
 			<county fips="38105" name="Williams, ND" />
 		</diocese>
 		<diocese id="southdakota" name="South Dakota">
+			<link type="web" href="http://www.diocesesd.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_South_Dakota" />
 			<county fips="46003" name="Aurora, SD" />
 			<county fips="46005" name="Beadle, SD" />
@@ -2423,6 +2514,7 @@
 			<county fips="46137" name="Ziebach, SD" />
 		</diocese>
 		<diocese id="wyoming" name="Wyoming">
+			<link type="web" href="http://wyomingdiocese.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Wyoming" />
 			<county fips="56001" name="Albany, WY" />
 			<county fips="56003" name="Big Horn, WY" />
@@ -2451,6 +2543,7 @@
 	</province>
 	<province id="province-7">
 		<diocese id="arkansas" name="Arkansas">
+			<link type="web" href="http://episcopalarkansas.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Arkansas" />
 			<county fips="05001" name="Arkansas, AR" />
 			<county fips="05003" name="Ashley, AR" />
@@ -2529,6 +2622,7 @@
 			<county fips="05149" name="Yell, AR" />
 		</diocese>
 		<diocese id="dallas" name="Dallas">
+			<link type="web" href="http://edod.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Dallas" />
 			<county fips="48037" name="Bowie, TX" />
 			<county fips="48387" name="Red River, TX" />
@@ -2558,6 +2652,7 @@
 			<county fips="48277" name="Lamar, TX" />
 		</diocese>
 		<diocese id="fortworth" name="Fort Worth">
+			<link type="web" href="http://episcopaldiocesefortworth.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Fort_Worth" />
 			<county fips="48049" name="Brown, TX" />
 			<county fips="48093" name="Comanche, TX" />
@@ -2583,6 +2678,7 @@
 			<county fips="48097" name="Cooke, TX" />
 		</diocese>
 		<diocese id="kansas" name="Kansas">
+			<link type="web" href="http://www.episcopal-ks.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Kansas" />
 			<county fips="20043" name="Doniphan, KS" />
 			<county fips="20013" name="Brown, KS" />
@@ -2632,6 +2728,7 @@
 			<county fips="20131" name="Nemaha, KS" />
 		</diocese>
 		<diocese id="northwesttexas" name="Northwest Texas">
+			<link type="web" href="http://www.nwtdiocese.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Northwest_Texas" />
 			<county fips="48107" name="Crosby, TX" />
 			<county fips="48303" name="Lubbock, TX" />
@@ -2716,6 +2813,7 @@
 			<county fips="48487" name="Wilbarger, TX" />
 		</diocese>
 		<diocese id="oklahoma" name="Oklahoma">
+			<link type="web" href="http://www.episcopaloklahoma.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Oklahoma" />
 			<county fips="40001" name="Adair, OK" />
 			<county fips="40003" name="Alfalfa, OK" />
@@ -2796,6 +2894,7 @@
 			<county fips="40153" name="Woodward, OK" />
 		</diocese>
 		<diocese id="riogrande" name="Rio Grande">
+			<link type="web" href="http://www.dioceserg.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Rio_Grande" />
 			<county fips="35001" name="Bernalillo, NM" />
 			<county fips="35003" name="Catron, NM" />
@@ -2841,6 +2940,7 @@
 			<county fips="48371" name="Pecos, TX" />
 		</diocese>
 		<diocese id="texas" name="Texas">
+			<link type="web" href="http://www.epicenter.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Texas" />
 			<county fips="48321" name="Matagorda, TX" />
 			<county fips="48481" name="Wharton, TX" />
@@ -2900,6 +3000,7 @@
 			<county fips="48203" name="Harrison, TX" />
 		</diocese>
 		<diocese id="westernkansas" name="Western Kansas">
+			<link type="web" href="http://www.westernkansasepiscopal.com/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Western_Kansas" />
 			<county fips="20187" name="Stanton, KS" />
 			<county fips="20129" name="Morton, KS" />
@@ -2962,6 +3063,7 @@
 			<county fips="20157" name="Republic, KS" />
 		</diocese>
 		<diocese id="westernlouisiana" name="Western_Louisiana">
+			<link type="web" href="http://www.diocesewla.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Western_Louisiana" />
 			<county fips="22081" name="Red River, LA" />
 			<county fips="22013" name="Bienville, LA" />
@@ -3004,6 +3106,7 @@
 			<county fips="22113" name="Vermilion, LA" />
 		</diocese>
 		<diocese id="westmissouri" name="West Missouri">
+			<link type="web" href="http://www.diowestmo.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_West_Missouri" />
 			<county fips="29005" name="Atchison, MO" />
 			<county fips="29087" name="Holt, MO" />
@@ -3072,6 +3175,7 @@
 			<county fips="29227" name="Worth, MO" />
 		</diocese>
 		<diocese id="westtexas" name="West Texas">
+			<link type="web" href="http://www.dwtx.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_West_Texas" />
 			<county fips="48105" name="Crockett, TX" />
 			<county fips="48465" name="Val Verde, TX" />
@@ -3137,6 +3241,7 @@
 	</province>
 	<province id="province-8">
 		<diocese id="alaska" name="Alaska">
+			<link type="web" href="http://www.episcopalak.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Alaska" />
 			<county fips="02013" name="Aleutians East, AK" />
 			<county fips="02016" name="Aleutians West, AK" />
@@ -3167,6 +3272,7 @@
 			<county fips="02290" name="Yukon-Koyukuk, AK" />
 		</diocese>
 		<diocese id="arizona" name="Arizona">
+			<link type="web" href="http://www.azdiocese.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Arizona" />
 			<county fips="04015" name="Mohave, AZ" />
 			<county fips="04012" name="La Paz, AZ" />
@@ -3184,6 +3290,7 @@
 			<county fips="04025" name="Yavapai, AZ" />
 		</diocese>
 		<diocese id="california" name="California">
+			<link type="web" href="http://diocal.org" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_California" />
 			<county fips="06081" name="San Mateo, CA" />
 			<county fips="06001" name="Alameda, CA" />
@@ -3193,6 +3300,7 @@
 			<county fips="06085" name="Santa Clara, CA" split="1" />
 		</diocese>
 		<diocese id="easternoregon" name="Eastern Oregon">
+			<link type="web" href="http://www.episdioeo.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Eastern_Oregon" />
 			<county fips="41035" name="Klamath, OR" />
 			<county fips="41037" name="Lake, OR" />
@@ -3215,6 +3323,7 @@
 			<county fips="53039" name="Klickitat, WA" />
 		</diocese>
 		<diocese id="elcaminoreal" name="El Camino Real">
+			<link type="web" href="http://www.edecr.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_El_Camino_Real" />
 			<county fips="06079" name="San Luis Obispo, CA" />
 			<county fips="06053" name="Monterey, CA" />
@@ -3223,6 +3332,7 @@
 			<county fips="06085" name="Santa Clara, CA" split="1" />
 		</diocese>
 		<diocese id="hawaii" name="Hawaii">
+			<link type="web" href="http://www.episcopalhawaii.org" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Hawaii" />
 			<county fips="15001" name="Hawaii, HI" />
 			<county fips="15003" name="Honolulu, HI" />
@@ -3231,6 +3341,7 @@
 			<county fips="15009" name="Maui, HI" />
 		</diocese>
 		<diocese id="idaho" name="Idaho">
+			<link type="web" href="http://www.episcopalidaho.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Idaho" />
 			<county fips="16043" name="Fremont, ID" />
 			<county fips="16033" name="Clark, ID" />
@@ -3268,6 +3379,7 @@
 			<county fips="16081" name="Teton, ID" />
 		</diocese>
 		<diocese id="losangeles" name="Los Angeles">
+			<link type="web" href="http://www.ladiocese.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Los_Angeles" />
 			<county fips="06059" name="Orange, CA" />
 			<county fips="06037" name="Los Angeles, CA" />
@@ -3277,6 +3389,7 @@
 			<county fips="06065" name="Riverside, CA" split="1" />
 		</diocese>
 		<diocese id="nevada" name="Nevada">
+			<link type="web" href="http://diocesenv.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Nevada" />
 			<county fips="32510" name="Carson City, NV" />
 			<county fips="32001" name="Churchill, NV" />
@@ -3297,6 +3410,7 @@
 			<county fips="32033" name="White Pine, NV" />
 		</diocese>
 		<diocese id="northerncalifornia" name="Northern California">
+			<link type="web" href="http://www.norcalepiscopal.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Northern_California" />
 			<county fips="06015" name="Del Norte, CA" />
 			<county fips="06093" name="Siskiyou, CA" />
@@ -3325,6 +3439,7 @@
 			<county fips="06049" name="Modoc, CA" />
 		</diocese>
 		<diocese id="olympia" name="Olympia">
+			<link type="web" href="http://www.ecww.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Olympia" />
 			<county fips="53073" name="Whatcom, WA" />
 			<county fips="53069" name="Wahkiakum, WA" />
@@ -3347,6 +3462,7 @@
 			<county fips="53057" name="Skagit, WA" />
 		</diocese>
 		<diocese id="oregon" name="Oregon">
+			<link type="web" href="http://diocese-oregon.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Oregon" />
 			<county fips="41007" name="Clatsop, OR" />
 			<county fips="41009" name="Columbia, OR" />
@@ -3368,6 +3484,7 @@
 			<county fips="41057" name="Tillamook, OR" />
 		</diocese>
 		<diocese id="sandiego" name="San Diego">
+			<link type="web" href="http://www.edsd.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_San_Diego" />
 			<county fips="06025" name="Imperial, CA" />
 			<county fips="06073" name="San Diego, CA" />
@@ -3375,6 +3492,7 @@
 			<county fips="06065" name="Riverside, CA" split="1" />
 		</diocese>
 		<diocese id="sanjoaquin" name="San Joaquin">
+			<link type="web" href="http://diosanjoaquin.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_San_Joaquin" />
 			<county fips="06029" name="Kern, CA" />
 			<county fips="06027" name="Inyo, CA" />
@@ -3393,6 +3511,7 @@
 			<county fips="06077" name="San Joaquin, CA" />
 		</diocese>
 		<diocese id="spokane" name="Spokane">
+			<link type="web" href="http://www.spokanediocese.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Spokane" />
 			<county fips="53047" name="Okanogan, WA" />
 			<county fips="53003" name="Asotin, WA" />
@@ -3425,6 +3544,7 @@
 			<county fips="16049" name="Idaho, ID" />
 		</diocese>
 		<diocese id="utah" name="Utah">
+			<link type="web" href="http://www.episcopal-ut.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Utah" />
 			<county fips="49001" name="Beaver, UT" />
 			<county fips="49003" name="Box Elder, UT" />
