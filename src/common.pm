@@ -18,10 +18,11 @@ sub prefix {
 }
 
 sub single_path {
-	my ($pathname) = @_;
+	my ($pathname, $dir) = @_;
 
+	$dir = 'data' unless defined $dir;
 	my $result;
-	my $filename = "data/$pathname.svg";
+	my $filename = "$dir/$pathname.svg";
 
 	if (!-e $filename) {
 		warn "File $filename not found\n";
