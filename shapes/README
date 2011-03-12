@@ -1,0 +1,5 @@
+Each file in this directory contains a single path describing
+the shape of a diocese or province. This is the output of
+counties-to-apart.pl followed by combine-all.pl; they are
+saved here because this is an expensive operation.
+
