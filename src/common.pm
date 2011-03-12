@@ -32,7 +32,7 @@ sub single_path {
 	Start => sub {
 		my ($parser, $tag, %attrs) = @_;
 
-		if ($tag eq 'path' && defined $attrs{'id'} && defined $attrs{'d'} && $attrs{'id'} eq $pathname) {
+		if ($tag eq 'path' && defined $attrs{'d'}) {
 			$result = $attrs{'d'};
 		}
 	},
