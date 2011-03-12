@@ -7,16 +7,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
+   version="1.2"
    width="555.21997"
    height="351.67001"
-   id="svg9559"
-   sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="split.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   id="svg9559">
   <defs
      id="defs63" />
   <metadata
@@ -31,177 +25,133 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     inkscape:window-height="522"
-     inkscape:window-width="1016"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     guidetolerance="10.0"
-     gridtolerance="10.0"
-     objecttolerance="10.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base"
-     inkscape:zoom="0.8663233"
-     inkscape:cx="277.60999"
-     inkscape:cy="203.85749"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:current-layer="svg9559"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-maximized="0" />
-  <g
-     id="06065"
-     transform="translate(22.528594,-128.62375)"
-     inkscape:label="">
-    <path
-       inkscape:connector-curvature="0"
-       inkscape:label=""
-       id="06065-losangeles"
-       d="m 43.752406,329.37701 -1.3125,1.125 -0.375,0.65625 0.6875,1.53125 0.3125,0.8125 0.59375,0.25 0.5,0.6875 -1.375,1.34375 -0.0625,0.375 1.5,0.34375 1.125,1 -0.03125,0.21875 4.21875,1.03125 0.90625,0.1875 0.6875,-7.6875 -0.9375,-0.0312 -3.0625,-0.6875 -1.40625,-0.5 -0.0625,-0.21875 -0.40625,-0.0937 -1.5,-0.34375 z"
-       style="font-size:12px;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
-    <path
-       inkscape:connector-curvature="0"
-       inkscape:label=""
-       id="06065-sandiego"
-       d="m 51.127406,331.25201 -0.6875,7.6875 1.375,0.3125 3.3125,0.71875 2.25,0.5 6.5,1.375 5.3125,1.03125 1.375,0.25 2.125,0.40625 1.3125,-1.53125 0.40625,-1.46875 0.3125,-1.5 0.0625,-0.4375 0.28125,-0.96875 0.28125,-0.53125 0.96875,-1.375 -7.1875,-1.4375 -1.34375,-0.0625 -0.75,0.21875 -5.28125,-1.09375 -7.59375,-1.625 -2.625,-0.4375 -0.40625,-0.0312 z"
-       style="font-size:12px;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
-  </g>
-  <g
-     id="06085"
-     transform="translate(22.463344,-128.62505)"
-     inkscape:label="">
-    <path
-       inkscape:connector-curvature="0"
-       inkscape:label=""
-       id="06085-california"
-       d="m 9.3461562,274.40826 -1.375,2.1875 0,0.15625 0.03125,0.0625 0.0625,0.15625 2.7499998,-1.90625 -0.0625,0 -1.2499998,-0.4375 -0.15625,-0.21875 z"
-       style="font-size:12px;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
-    <path
-       inkscape:connector-curvature="0"
-       inkscape:label=""
-       id="06085-elcaminoreal"
-       d="m 11.439906,274.90826 -0.09375,0.0937 -0.0625,0.0312 -0.375,0.0312 -0.09375,0 -2.7499998,1.90625 0.1875,0.40625 0.53125,1.0625 0.25,0.375 0.6875,0.625 0.4374998,0.3125 0.875,0.90625 1.21875,2 0.0625,0.0937 -0.0625,0.25 0.875,-0.5 0.9375,0.1875 2,0.53125 -0.15625,-0.125 -0.0625,-0.1875 0,-0.0625 0.125,-0.5 0.28125,-0.125 0.1875,-0.34375 0.15625,-0.6875 -0.0625,-0.15625 -1.125,-1 -0.28125,-3.28125 0.03125,-0.6875 0.15625,-0.0625 -3.75,-1.0625 -0.125,-0.0312 z"
-       style="font-size:12px;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
-  </g>
+  <path
+     d="m 66.281,200.75326 -1.3125,1.125 -0.375,0.65625 0.6875,1.53125 0.3125,0.8125 0.59375,0.25 0.5,0.6875 -1.375,1.34375 -0.0625,0.375 1.5,0.34375 1.125,1 -0.03125,0.21875 4.21875,1.03125 0.90625,0.1875 0.6875,-7.6875 -0.9375,-0.0312 -3.0625,-0.6875 -1.40625,-0.5 -0.0625,-0.21875 -0.40625,-0.0937 -1.5,-0.34375 z"
+     id="06065-losangeles"
+     style="font-size:12px;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
+  <path
+     d="m 73.656,202.62826 -0.6875,7.6875 1.375,0.3125 3.3125,0.71875 2.25,0.5 6.5,1.375 5.3125,1.03125 1.375,0.25 2.125,0.40625 1.3125,-1.53125 0.40625,-1.46875 0.3125,-1.5 0.0625,-0.4375 0.28125,-0.96875 0.28125,-0.53125 0.96875,-1.375 -7.1875,-1.4375 -1.34375,-0.0625 -0.75,0.21875 -5.28125,-1.09375 -7.59375,-1.625 -2.625,-0.4375 -0.40625,-0.0312 z"
+     id="06065-sandiego"
+     style="font-size:12px;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
+  <path
+     d="m 31.8095,145.78321 -1.375,2.1875 0,0.15625 0.03125,0.0625 0.0625,0.15625 2.75,-1.90625 -0.0625,0 -1.25,-0.4375 -0.15625,-0.21875 z"
+     id="06085-california"
+     style="font-size:12px;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
+  <path
+     d="m 33.90325,146.28321 -0.09375,0.0937 -0.0625,0.0312 -0.375,0.0312 -0.09375,0 -2.75,1.90625 0.1875,0.40625 0.53125,1.0625 0.25,0.375 0.6875,0.625 0.4375,0.3125 0.875,0.90625 1.21875,2 0.0625,0.0937 -0.0625,0.25 0.875,-0.5 0.9375,0.1875 2,0.53125 -0.15625,-0.125 -0.0625,-0.1875 0,-0.0625 0.125,-0.5 0.28125,-0.125 0.1875,-0.34375 0.15625,-0.6875 -0.0625,-0.15625 -1.125,-1 -0.28125,-3.28125 0.03125,-0.6875 0.15625,-0.0625 -3.75,-1.0625 -0.125,-0.0312 z"
+     id="06085-elcaminoreal"
+     style="font-size:12px;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
   <flowRoot
-     xml:space="preserve"
+     transform="translate(-2.3725938,212.06451)"
      id="flowRoot4028"
-     style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     transform="translate(-2.3725938,212.06451)"><flowRegion
+     xml:space="preserve"
+     style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
        id="flowRegion4030"><rect
-         id="rect4032"
          width="14.142136"
          height="6.805903"
          x="8.8388348"
-         y="119.46658" /></flowRegion><flowPara
+         y="119.46658"
+         id="rect4032" /></flowRegion><flowPara
        id="flowPara4034">Califonir</flowPara></flowRoot>  <flowRoot
-     xml:space="preserve"
+     transform="translate(-2.3725938,212.06451)"
      id="flowRoot4036"
-     style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     transform="translate(-2.3725938,212.06451)"><flowRegion
+     xml:space="preserve"
+     style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
        id="flowRegion4038"><rect
-         id="rect4040"
          width="31.112698"
          height="6.7175145"
          x="8.9272232"
-         y="119.55497" /></flowRegion><flowPara
-       id="flowPara4042"></flowPara></flowRoot>  <g
-     id="g4191"
-     transform="translate(65.112593,21.448681)">
+         y="119.55497"
+         id="rect4040" /></flowRegion><flowPara
+       id="flowPara4042" /></flowRoot>  <g
+     transform="translate(65.112593,21.448681)"
+     id="g4191">
     <rect
-       ry="2.1051164"
-       y="119.55206"
-       x="3.1096451"
-       height="4.7633343"
        width="4.7034907"
+       height="4.7633343"
+       ry="2.1051164"
+       x="3.1096451"
+       y="119.55206"
        id="rect4026"
        style="color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.23666589;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
        transform="translate(0,0.15669442)"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot4044"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion4046"><rect
-           y="119.2898"
-           x="8.9272232"
-           height="5.833631"
            width="19.79899"
+           height="5.833631"
+           x="8.9272232"
+           y="119.2898"
            id="rect4048" /></flowRegion><flowPara
          id="flowPara4050">California</flowPara></flowRoot>    <rect
-       ry="2.1051164"
-       y="126.20031"
-       x="3.1096451"
-       height="4.7633343"
        width="4.7034907"
+       height="4.7633343"
+       ry="2.1051164"
+       x="3.1096451"
+       y="126.20031"
        id="rect4026-9"
        style="color:#000000;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.23666589;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
        transform="translate(-1.5,0.42994117)"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot4111"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion4113"><rect
-           y="125.65376"
-           x="10.429825"
-           height="6.1871843"
            width="33.58757"
+           height="6.1871843"
+           x="10.429825"
+           y="125.65376"
            id="rect4115" /></flowRegion><flowPara
          id="flowPara4117">El Camino Real</flowPara></flowRoot>    <rect
-       ry="2.1051164"
-       y="132.84856"
-       x="3.1096451"
-       height="4.7633343"
        width="4.7034907"
+       height="4.7633343"
+       ry="2.1051164"
+       x="3.1096451"
+       y="132.84856"
        id="rect4026-7"
        style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.23666589;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
        transform="translate(-2.65625,-1.090756)"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot4119"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion4121"><rect
-           y="133.43193"
-           x="11.578874"
-           height="5.3916893"
            width="32.173359"
+           height="5.3916893"
+           x="11.578874"
+           y="133.43193"
            id="rect4123" /></flowRegion><flowPara
          id="flowPara4125">Los Angeles</flowPara></flowRoot>    <rect
-       ry="2.1051164"
-       y="139.4968"
-       x="3.1096451"
-       height="4.7633343"
        width="4.7034907"
+       height="4.7633343"
+       ry="2.1051164"
+       x="3.1096451"
+       y="139.4968"
        id="rect4026-0"
        style="color:#000000;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.23666589;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <flowRoot
        transform="translate(-3.625,-3.4425116)"
-       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot4127"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion4129"><rect
-           y="142.44756"
-           x="12.551146"
-           height="5.9220195"
            width="31.996582"
+           height="5.9220195"
+           x="12.551146"
+           y="142.44756"
            id="rect4131" /></flowRegion><flowPara
          id="flowPara4133">San Diego</flowPara></flowRoot>  </g>
   <flowRoot
-     xml:space="preserve"
+     transform="translate(-2.3725938,212.06451)"
      id="flowRoot4135"
-     style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     transform="translate(-2.3725938,212.06451)"><flowRegion
+     xml:space="preserve"
+     style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
        id="flowRegion4137"><rect
-         id="rect4139"
          width="42.868347"
          height="29.698484"
          x="-0.088388346"
-         y="118.31753" /></flowRegion><flowPara
-       id="flowPara4141"></flowPara></flowRoot></svg>
+         y="118.31753"
+         id="rect4139" /></flowRegion><flowPara
+       id="flowPara4141" /></flowRoot></svg>
