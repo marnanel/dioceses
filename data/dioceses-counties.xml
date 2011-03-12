@@ -6,7 +6,9 @@ Episcopal Church in the USA (known as TEC or ECUSA). In some
 cases the counties have been worked out from old maps and
 may be incorrect. Corrections are welcomed: thomas@thurman.org.uk.
 
-The Navajo Area Mission is not yet accounted for, but will be.
+Provinces and dioceses which lose area to the Navajoland Area
+Mission are marked with navajo="sub". Those which gain area
+from it are marked with navajo="add".
 
 Two counties in the entire USA are split between dioceses.
 These are Santa Clara and Riverside Counties, both in California.
@@ -2539,7 +2541,7 @@ This file is in the public domain.
 			<county fips="56045" name="Weston, WY" />
 		</diocese>
 	</province>
-	<province id="province-7">
+	<province id="province-7" navajo="sub">
 		<diocese id="arkansas" name="Arkansas">
 			<link type="web" href="http://episcopalarkansas.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Arkansas" />
@@ -2891,7 +2893,7 @@ This file is in the public domain.
 			<county fips="40151" name="Woods, OK" />
 			<county fips="40153" name="Woodward, OK" />
 		</diocese>
-		<diocese id="riogrande" name="Rio Grande">
+		<diocese id="riogrande" name="Rio Grande" navajo="sub">
 			<link type="web" href="http://www.dioceserg.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Rio_Grande" />
 			<county fips="35001" name="Bernalillo, NM" />
@@ -3237,7 +3239,7 @@ This file is in the public domain.
 			<county fips="48061" name="Cameron, TX" />
 		</diocese>
 	</province>
-	<province id="province-8">
+	<province id="province-8" navajo="add">
 		<diocese id="alaska" name="Alaska">
 			<link type="web" href="http://www.episcopalak.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Alaska" />
@@ -3269,7 +3271,7 @@ This file is in the public domain.
 			<county fips="02282" name="Yakutat, AK" />
 			<county fips="02290" name="Yukon-Koyukuk, AK" />
 		</diocese>
-		<diocese id="arizona" name="Arizona">
+		<diocese id="arizona" name="Arizona" navajo="sub">
 			<link type="web" href="http://www.azdiocese.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Arizona" />
 			<county fips="04015" name="Mohave, AZ" />
@@ -3541,7 +3543,7 @@ This file is in the public domain.
 			<county fips="16035" name="Clearwater, ID" />
 			<county fips="16049" name="Idaho, ID" />
 		</diocese>
-		<diocese id="utah" name="Utah">
+		<diocese id="utah" name="Utah" navajo="sub">
 			<link type="web" href="http://www.episcopal-ut.org/" />
 			<link type="wikipedia" href="http://en.wikipedia.org/wiki/Episcopal_Diocese_of_Utah" />
 			<county fips="49001" name="Beaver, UT" />
