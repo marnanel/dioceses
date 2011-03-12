@@ -17,6 +17,10 @@ sub prefix {
 	return $_prefix;
 }
 
+sub suffix {
+	return "</svg>\n";
+}
+
 sub single_path {
 	my ($pathname, $dir) = @_;
 
