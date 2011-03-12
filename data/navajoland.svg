@@ -49,10 +49,11 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
-     style="opacity:1;color:#000000;fill:#d45500;stroke:#000000;stroke-width:0.98478239999999995;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="M 163.09375 157.53125 C 151.70469 157.53125 142.46875 166.51693 142.46875 177.625 C 142.46875 188.73307 151.70469 197.75 163.09375 197.75 C 173.53692 197.75 182.13853 190.16527 183.5 180.34375 L 180.875 180.03125 L 180.25 179.96875 L 171.15625 178.8125 L 164.40625 177.9375 L 165.28125 171.65625 L 166 166.5625 L 166.5 163.0625 L 166.9375 158.5625 L 167.03125 157.90625 C 165.75482 157.66517 164.4424 157.53125 163.09375 157.53125 z "
+     style="color:#000000;fill:#d45500;stroke:#000000;stroke-width:0.9847824;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 159.91739,157.53125 c -11.38906,0 -20.625,8.98568 -20.625,20.09375 0,11.10807 9.23594,20.125 20.625,20.125 10.44317,0 19.04478,-7.58473 20.40625,-17.40625 l -2.625,-0.3125 -0.625,-0.0625 -9.09375,-1.15625 -6.75,-0.875 0.875,-6.28125 0.71875,-5.09375 0.5,-3.5 0.4375,-4.5 0.0937,-0.65625 c -1.27643,-0.24108 -2.58885,-0.375 -3.9375,-0.375 z"
      id="navajoland"
-     inkscape:label="" />
+     inkscape:label=""
+     inkscape:connector-curvature="0" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot3914"
