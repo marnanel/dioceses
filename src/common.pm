@@ -21,6 +21,10 @@ sub suffix {
 	return "</svg>\n";
 }
 
+sub style {
+	return 'font-size:12px;fill:#000000;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;stroke-width:1px;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;marker-start:none;stroke-linejoin:bevel';
+}
+
 sub single_path {
 	my ($pathname, $dir) = @_;
 
